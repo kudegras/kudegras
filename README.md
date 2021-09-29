@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers, coding, and philosophy
 - 🌱 I’m currently learning com sci
 - 💞️ I’m looking to collaborate on open sourced projects
-- 📫 How to reach me can you chat in github idk maybe email
+- 📫 How to reach me can just hmu
 
 <!---
 kudegras/kudegras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
