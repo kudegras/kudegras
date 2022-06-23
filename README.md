@@ -5,7 +5,7 @@ kudegras/kudegras is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Kamusta
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Kamusta
 
 <div align="justify">
 My name is Edriech and I'm a computer science student from UST. I'm passionate about learning new technologies which I can use to give value to those around me.
