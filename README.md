@@ -1,11 +1,10 @@
-gitThatDegree
 
 <!---
 kudegras/kudegras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Kamusta
+<h1 align="center">Kamusta <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="justify">
 My name is Edriech and I'm a computer science student from UST. I'm passionate about learning new technologies which I can use to give value to those around me.
@@ -172,3 +171,5 @@ My name is Edriech and I'm a computer science student from UST. I'm passionate a
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=kudegras&&theme=radical&&hide_border=true"
 />
+
+>gitThatDegree bro
