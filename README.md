@@ -166,10 +166,10 @@ My name is Edriech and I'm a computer science student from UST. I'm passionate a
 # 🔥️ Stats
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=kudegras&show_icons=true&theme=radical&&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api?username=kudegras&show_icons=true&theme=radical&hide_border=true&count_private=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=kudegras&&theme=radical&&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=kudegras&theme=radical&&hide_border=true&count_private=true"
 />
 
 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Edriech_Balajadia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/edriech-balajadia)
