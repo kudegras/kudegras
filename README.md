@@ -9,6 +9,9 @@ You can click the Preview link to take a look at your changes.
 <div align="justify">
 My name is Edriech and I'm a computer science student from UST. I'm passionate about learning new technologies which I can use to give value to those around me.
 <div>
+    
+# ⚡Work Experience
+- **Software Engineer Intern at PearlPay** - Full-stack development on the Core Banking and Loan Management Solution team in Indonesia branch. [Remote. Summer 2022]
 
 # 🛠 Technologies and Tools
 
